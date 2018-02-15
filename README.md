@@ -1,5 +1,5 @@
 # Ionic 2 and Angular 2 using the Camera
-Using the camera with Ionic 2 native, taking multiple pictures with Delete Option. This package is powered by www.9lessons.info blog feed content and developed using Ionic v2 and Angular 2.   
+seed content and developed using Ionic v2 and Angular 2.   
 
 <table><tr>
 <td width="25%">
@@ -29,7 +29,7 @@ Execute following commands to run this application.
 ```
 $ npm install -g cordova ionic
 
-$ git clone https://github.com/srinivastamada/ionic2-camera.git
+$ git clone https://github.com/rajatguptakr2/ionic2-camera.git
 
 $ cd ionic2-camera
 
